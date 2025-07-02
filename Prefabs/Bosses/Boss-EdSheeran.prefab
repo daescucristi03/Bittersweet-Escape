@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8580014615689095167
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1577671445417097893, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1810359038445812029, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_Name
+      value: Boss-EdSheeran
+      objectReference: {fileID: 0}
+    - target: {fileID: 3102334078488319640, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: bossName
+      value: Jelly The Destroyer
+      objectReference: {fileID: 0}
+    - target: {fileID: 3102334078488319640, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: healthBarPrefab
+      value: 
+      objectReference: {fileID: 2024489243584875506, guid: 4283a9912129348b1bf225525db57646, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: combo2
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: pattern2
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: pattern3
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: pattern4
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: pattern5
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: activeMode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: spawnSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4b052c70cb1d04d6ea6747c35b5b9b54, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: bossHealthUI
+      value: 
+      objectReference: {fileID: 2024489243584875506, guid: 4283a9912129348b1bf225525db57646, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: dashCooldown
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: minionPrefab
+      value: 
+      objectReference: {fileID: 6147712468336575936, guid: 0eae633803ed64c6887574cd98aba2e7, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: activePattern
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: comboPattern2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: comboPattern3
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: comboPattern4
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: comboPattern5
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: indicatorPrefab
+      value: 
+      objectReference: {fileID: 7823327091382468809, guid: af0d06ad2f476cc43be23ac0f464a510, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: patternInterval
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: projectilePrefab
+      value: 
+      objectReference: {fileID: 1739047406748352096, guid: 81103a09314b74b6984de56657edf08f, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: projectileRainIndicatorPrefab
+      value: 
+      objectReference: {fileID: 7823327091382468809, guid: af0d06ad2f476cc43be23ac0f464a510, type: 3}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: finalBossPatternPool.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[0].mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[1].mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[2].mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[3].mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[4].mode
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[5].mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[6].mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: 'finalBossPatternPool.Array.data[0]'
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: 'finalBossPatternPool.Array.data[1]'
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: 'finalBossPatternPool.Array.data[2]'
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[0].weight
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[1].weight
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[2].weight
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[3].weight
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[4].weight
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[5].weight
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4057817007828115308, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: attackPatterns.Array.data[6].weight
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8214337499233093699, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_Radius
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8214337499233093699, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8214337499233093699, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8707875721186782178, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1835840475655052191, guid: e2f1968513f4448ec9876452e876b1cf, type: 3}
+    m_RemovedComponents:
+    - {fileID: 2038742538136485335, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+    - {fileID: 2419481644430681582, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+    - {fileID: 3102334078488319640, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1810359038445812029, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 2970704672204324144}
+  m_SourcePrefab: {fileID: 100100000, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+--- !u!1 &7930269541424438978 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1810359038445812029, guid: da40899c00ac741d58173d7e2190b8d4, type: 3}
+  m_PrefabInstance: {fileID: 8580014615689095167}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2970704672204324144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7930269541424438978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd7ee38252bd94e8f934d666fe98ee83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 20
+  healthBarPrefab: {fileID: 4823721170539496404, guid: 1681ba6a87fd245e0995c5197f831746, type: 3}
+  bossName: Ed Sheeran
+  isFinalBoss: 1
+  deathSound: {fileID: 8300000, guid: 73d801d2f8bec4c21a0cdb09ad14e4ba, type: 3}
